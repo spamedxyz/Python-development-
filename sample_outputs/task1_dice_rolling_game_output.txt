@@ -1,0 +1,17 @@
+==========================================
+Dice Rolling Game
+==========================================
+
+Press Enter to roll the dice...
+
+Die 1: 4
+Die 2: 6
+Total: 10
+Great roll! You earned 3 points.
+Current score: 3
+
+Roll again? (y/n): n
+
+Game over.
+Final score: 3
+Thanks for playing!

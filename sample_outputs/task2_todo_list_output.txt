@@ -1,0 +1,36 @@
+====== To-Do List Application ======
+1. Add Task
+2. Show Tasks
+3. Mark Task as Done
+4. Remove Task
+5. Exit
+Enter your choice (1-5): 1
+Enter task title: Complete Python report
+Task added successfully.
+
+====== To-Do List Application ======
+Enter your choice (1-5): 1
+Enter task title: Practice coding
+Task added successfully.
+
+====== To-Do List Application ======
+Enter your choice (1-5): 3
+
+Your Tasks:
+1. Complete Python report - Not Done
+2. Practice coding - Not Done
+
+Progress: [--------------------] 0%
+Completed 0 of 2 tasks.
+Enter task number to mark as done: 1
+Task marked as done.
+
+====== To-Do List Application ======
+Enter your choice (1-5): 2
+
+Your Tasks:
+1. Complete Python report - Done
+2. Practice coding - Not Done
+
+Progress: [##########----------] 50%
+Completed 1 of 2 tasks.

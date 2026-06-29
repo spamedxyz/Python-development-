@@ -1,0 +1,34 @@
+===================================
+ATM Simulation
+===================================
+1. Show Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice (1-4): 2
+Enter amount to deposit: $1000
+$1000.00 deposited successfully.
+
+===================================
+ATM Simulation
+===================================
+1. Show Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice (1-4): 3
+Enter amount to withdraw: $250
+$250.00 withdrawn successfully.
+
+===================================
+ATM Simulation
+===================================
+1. Show Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice (1-4): 1
+
+******************************
+Current Balance: $750.00
+******************************

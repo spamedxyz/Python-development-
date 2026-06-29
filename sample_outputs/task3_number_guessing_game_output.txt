@@ -1,0 +1,20 @@
+==========================================
+Number Guessing Game
+==========================================
+
+I am thinking of a number between 1 and 100.
+You have 7 attempts.
+
+Enter your guess: 50
+Too low.
+Attempts left: 6
+
+Enter your guess: 75
+Too high.
+Attempts left: 5
+
+Enter your guess: 63
+Congratulations! You guessed it in 3 attempts.
+
+Do you want to play again? (y/n): n
+Thanks for playing!
